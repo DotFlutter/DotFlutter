@@ -12,7 +12,7 @@
 I am a **Mobile Application Developer** with expertise in **C, C++, Java, Dart, and Data Structures & Algorithms**.  
 I have experience working in **startups and large companies**, transforming **ideas into real-world mobile applications**.
 
-I started learning **Flutter in 2025**, and since then, I have been dedicated to developing **high-quality apps** with **beautiful UI designs** and **seamless user experiences**.
+I started learning **Flutter in 2024**, and since then, I have been dedicated to developing **high-quality apps** with **beautiful UI designs** and **seamless user experiences**.
 
 ---
 
